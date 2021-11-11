@@ -1,0 +1,45 @@
+
+
+body
+{
+    background-size: cover;
+}
+
+.H3
+{
+    width: 100%;
+    color: white;
+    margin-top: 0;
+    font-size: 30;
+
+}
+
+.H4
+{
+    font-size: 20;
+}
+
+#status
+{
+    font-size: 20;
+}
+
+footer
+{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    line-height: 2;
+    width: 100%;
+    font-size: 20px;
+}
+
+ canvas
+ {
+     border: 5px solid black;
+     box-shadow: 5px 5px 3px 3px grey;
+     margin-top: 100px;
+     border-radius: 5px;
+ }
